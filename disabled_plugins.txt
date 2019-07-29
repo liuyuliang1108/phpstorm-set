@@ -1,0 +1,3 @@
+org.jetbrains.plugins.phpstorm-docker
+org.jetbrains.plugins.phpstorm-remote-interpreter
+org.jetbrains.plugins.remote-run

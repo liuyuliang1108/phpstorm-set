@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="content" value="{extend name='base/base_content' /}&#10;&#10;&#10;{block name=&quot;seo&quot;}&#10;&lt;title&gt;{$title|default='页面标题'}&lt;/title&gt;&#10;&lt;meta name=&quot;keywords&quot; content=&quot;{$keywords|default='页面关键字'}&quot;&gt;&#10;&lt;meta name=&quot;description&quot; content=&quot;{description|default='页面描述'}&quot;&gt;&#10;&lt;link href=&quot;__ADMIN__/static/h-ui.admin/css/H-ui.login.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;{/block}&#10;&#10;&#10;{block name=&quot;content&quot;}&#10;&#10;{/block}&#10;&#10;&#10;{block name=&quot;js&quot;}&#10;&lt;script type=&quot;text/javascript&quot; src=&quot;__ADMIN__/lib/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&#10;&lt;script type=&quot;text/javascript&quot; src=&quot;__ADMIN__/static/h-ui/js/H-ui.min.js&quot;&gt;&lt;/script&gt;&#10;&lt;script&gt;&#10;&#10;&lt;/script&gt;&#10;{/block}&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="内容基模板，供继承" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="time" value="$DATE$ $TIME$" shortcut="TAB" description="时间" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="date()" alwaysStopAt="false" />
+    <variable name="TIME" expression="" defaultValue="time()" alwaysStopAt="false" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

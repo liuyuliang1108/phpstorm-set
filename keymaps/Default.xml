@@ -1,0 +1,57 @@
+<keymap version="1" name="Default 复制" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="alt caps_lock" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="PublishGroup.CompareLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="SaveAsTemplate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="SaveFileAsTemplate">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="tv.twelvetone.intellij.plugin.plugins.intellivue.createOrGoVueImplementation">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="tv.twelvetone.intellij.plugins.intellivue.analyzeVueFile">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>

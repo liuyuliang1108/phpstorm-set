@@ -1,0 +1,86 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:/wamp/www/vuenvlang" />
+        <option value="C:/wamp/www" />
+        <option value="F:/vue/nvlang_vue_master" />
+        <option value="C:/wamp/newvue" />
+        <option value="C:/phpStudy/PHPTutorial/WWW" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:/wamp/www" />
+        <option value="C:/wamp/www/vuenvlang" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="C:/wamp/www/vuenvlang" value="nvlang_vue_master, vue-used" />
+      </map>
+    </option>
+    <option name="lastPath" value="C:/wamp/www/vuenvlang" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/phpStudy/PHPTutorial/WWW">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560224154943" />
+              <option name="buildTimestamp" value="1549627691683" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/wamp/newvue">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562721881757" />
+              <option name="buildTimestamp" value="1549627690815" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/wamp/www">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564364546040" />
+              <option name="buildTimestamp" value="1549627709075" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/wamp/www/vuenvlang">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564364546040" />
+              <option name="buildTimestamp" value="1549627709075" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/vue/nvlang_vue_master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562721974665" />
+              <option name="buildTimestamp" value="1549627690815" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="C:/wamp" />
+  </component>
+</application>
