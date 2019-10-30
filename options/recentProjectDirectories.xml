@@ -2,8 +2,12 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:/wamp/www" />
+        <option value="E:/wamp/www/vue-element-admin" />
         <option value="C:/wamp/www/vuenvlang" />
         <option value="C:/wamp/www" />
+        <option value="C:/wamp/www/inbarsar/inbarsarmwx" />
+        <option value="C:/wamp/www/inbarsar/inbarsarmp" />
         <option value="F:/vue/nvlang_vue_master" />
         <option value="C:/wamp/newvue" />
         <option value="C:/phpStudy/PHPTutorial/WWW" />
@@ -11,16 +15,18 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:/wamp/www" />
-        <option value="C:/wamp/www/vuenvlang" />
+        <option value="E:/wamp/www/vue-element-admin" />
+        <option value="E:/wamp/www" />
       </list>
     </option>
     <option name="names">
       <map>
-        <entry key="C:/wamp/www/vuenvlang" value="nvlang_vue_master, vue-used" />
+        <entry key="C:/wamp/www/inbarsar/inbarsarmwx" value="inbarsarmwx, nvlang_vue_master..." />
+        <entry key="C:/wamp/www/vuenvlang" value="nvlang_vue_master, vue-admin-template..." />
+        <entry key="E:/wamp/www/vue-element-admin" value="vue-element-admin, ModuleManage..." />
       </map>
     </option>
-    <option name="lastPath" value="C:/wamp/www/vuenvlang" />
+    <option name="lastPath" value="E:/wamp/www" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -49,22 +55,66 @@
         <entry key="C:/wamp/www">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="PS-183.5429.47" />
+              <option name="build" value="PS-183.6156.29" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1564364546040" />
-              <option name="buildTimestamp" value="1549627709075" />
+              <option name="projectOpenTimestamp" value="1571707575299" />
+              <option name="buildTimestamp" value="1554910371689" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/wamp/www/inbarsar/inbarsarmp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.6156.29" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567237900382" />
+              <option name="buildTimestamp" value="1554910333396" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/wamp/www/inbarsar/inbarsarmwx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.6156.29" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571363102601" />
+              <option name="buildTimestamp" value="1554910338850" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="C:/wamp/www/vuenvlang">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="PS-183.5429.47" />
+              <option name="build" value="PS-183.6156.29" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1564364546040" />
-              <option name="buildTimestamp" value="1549627709075" />
+              <option name="projectOpenTimestamp" value="1571713876378" />
+              <option name="buildTimestamp" value="1554910371689" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/wamp/www">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.6156.29" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572403240953" />
+              <option name="buildTimestamp" value="1554910330742" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/wamp/www/vue-element-admin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.6156.29" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572403240953" />
+              <option name="buildTimestamp" value="1554910330742" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

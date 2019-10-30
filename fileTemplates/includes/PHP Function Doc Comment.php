@@ -1,7 +1,10 @@
 /**
-* @name ${NAME}
 * @decs
+* @name ${NAME}
+* 关联class：
 * 关联model：
+* 关联this类方法清单：
+* 关联common方法清单：
 ${PARAM_DOC}
 #if (${STATIC} == "static") * @static
 #end

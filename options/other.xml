@@ -5,21 +5,26 @@
     </local-interpreter>
   </component>
   <component name="PropertiesComponent">
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6859972" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="topthink/thinkphp" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7093664" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="Default.SavedEditorTheme" value="_@user_Default" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FileTemplates.CurrentTab" value="包含" />
+    <property name="FileTemplates.SelectedTemplate" value="Drupal Hook Implementation Doc Comment" />
     <property name="InstalledPluginsSearchHistory" value="node.js&#10;node&#10;vue.js&#10;js&#10;Remote Hosts Access" />
-    <property name="KEYMAP" value="dep&#10;depl&#10;剪切&#10;关闭&#10;最近" />
+    <property name="KEYMAP" value="eslint&#10;选中&#10;dep&#10;depl&#10;剪切" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="SettingsSearchHistory" value="node.js&#10;node" />
     <property name="SqlStructureView.filterD.file.structure.state" value="true" />
-    <property name="TrendingPluginsSearchHistory" value="node&#10;node.js&#10;nodel&#10;vue&#10;vue.js" />
+    <property name="TrendingPluginsSearchHistory" value="ESLint&#10;微信&#10;node&#10;node.js&#10;nodel" />
     <property name="UpdatePluginsSearchHistory" value="Remote Hosts Access" />
     <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="180" />
@@ -30,12 +35,17 @@
     <property name="evlsprt2.183" value="16a34e5d440" />
     <property name="evlsprt3.183" value="12" />
     <property name="export.settings.path" value="C:\Users\yliang_liu\.PhpStorm2018.3\config\settings1.1.zip" />
-    <property name="file.chooser.recent.files" value="C:/wamp/www/gitignoretp/随笔/vue-used&#10;C:/wamp/www/vuenvlang&#10;C:/wamp/www/vuenvlang/src/views/sc/order/orderteamlist.vue&#10;C:/wamp/www/aaad/src/views/sc/order/orderlist.vue&#10;C:/wamp/www/nvlang_vue_master/src&#10;C:/wamp/www/aaad/src/main.js&#10;C:/wamp/www/aaad/src&#10;C:/wamp/www&#10;F:/vue/nvlang_vue_master&#10;C:/wamp/bin/php/php5.6.25/php.exe&#10;C:/wamp/bin/php/php7.0.10/php.exe&#10;C:/Users/CJC/.PhpStorm2018.3/config/settings.zip&#10;C:/Program Files/Git/bin/bash.exe&#10;C:/Program Files/Git/bin/git.exe&#10;C:/phpStudy/PHPTutorial/WWW/tp5.1/composer.json&#10;C:/phpStudy/PHPTutorial/WWW&#10;C:/phpStudy/PHPTutorial/php/php-7.0.12-nts/php.exe&#10;C:/phpStudy/PHPTutorial/WWW/tp5.0/public&#10;C:/phpStudy/PHPTutorial/WWW/tp5.0" />
-    <property name="file.gist.reindex.count" value="99062" />
-    <property name="fileTypeChangedCounter" value="1" />
+    <property name="file.chooser.recent.files" value="C:/wamp/www/vuenvlang/src&#10;E:/wamp/www/inbarsar/inbarsarmwx&#10;E:/wamp/www/vuenvlang&#10;E:/wamp/www/ModuleManage&#10;E:/wamp/www/admin123&#10;E:/wamp/www/vue-admin-template&#10;E:/wamp/www/vue-element-template&#10;E:/wamp/www/vue-element-admin&#10;E:/wamp/www&#10;C:/wamp/www/vue-admin-template&#10;C:/wamp/www/vue-element-admin&#10;C:/wamp/www/vue-framework-wz&#10;C:/wamp/www/nvlang_mpvue/nvlangmwx&#10;C:/wamp/www/Product.php&#10;C:/wamp/www/src&#10;C:/wamp/www/gitignoretp/随笔/vue-used&#10;C:/wamp/www/vuenvlang&#10;C:/wamp/www/nvlangwx/nvlangmp/application/mp&#10;C:/wamp/bin/php/php7.0.10/pharcommand.phar&#10;C:/wamp/www/sarah-vue&#10;C:/wamp/www/nvlang/application/common/model/Dealer.php&#10;C:/wamp/www/inbarsar/inbarsarmwx&#10;C:/wamp/www/vuenvlang/src/views/sc/order/orderteamlist.vue&#10;C:/wamp/www/aaad/src/views/sc/order/orderlist.vue&#10;C:/wamp/www/nvlang_vue_master/src&#10;C:/wamp/www/aaad/src/main.js&#10;C:/wamp/www/aaad/src&#10;C:/wamp/www&#10;F:/vue/nvlang_vue_master&#10;C:/wamp/bin/php/php5.6.25/php.exe" />
+    <property name="file.gist.reindex.count" value="281602" />
+    <property name="fileTypeChangedCounter" value="2" />
     <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="55242" />
-    <property name="lastTip" value="178" />
+    <property name="lastTip" value="91" />
     <property name="param.hints.settings.last.edited.language" value="PHP" />
     <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="tv.twelvetone.intellij.plugins.intellivue.device-id" value="851cc858-3dd4-4e8d-b3f7-19ea002dbe0f" />
+    <property name="tv.twelvetone.intellij.plugins.intellivue.enableBetaFeatures" value="false" />
+    <property name="tv.twelvetone.intellij.plugins.intellivue.reportErrors" value="true" />
+    <property name="tv.twelvetone.intellij.plugins.intellivue.reportUsage" value="true" />
+    <property name="tv.twelvetone.intellij.plugins.intellivue.usage-counts" value="{&quot;productVersion&quot;:&quot;1.0.0-rc.10&quot;,&quot;product&quot;:&quot;intellivue&quot;,&quot;source&quot;:&quot;851cc858-3dd4-4e8d-b3f7-19ea002dbe0f&quot;,&quot;lastSent&quot;:1567234083291,&quot;features&quot;:{}}" />
   </component>
 </application>
