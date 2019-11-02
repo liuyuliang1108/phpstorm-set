@@ -50,7 +50,7 @@
     <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="483" y="0" />
     <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="531" y="163" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@120dpi" x="755" y="268" />
-    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="0" y="0" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="317" y="163" />
     <location key="SettingsEditor.0.0.1440.900" x="206" y="52" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="161" y="64" />
     <location key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#.0.0.1440.900" x="412" y="242" />
