@@ -6,9 +6,9 @@
     <feature id="refactoring.rename" count="67" last-shown="0" last-used="1571992887602" shown-count="0" />
     <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.finishBySmartEnter" count="769" last-shown="0" last-used="1572689153872" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="772" last-shown="0" last-used="1572941799116" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="3529" last-shown="1560217792616" last-used="1572861452576" shown-count="26" />
+    <feature id="editing.completion.replace" count="3546" last-shown="1560217792616" last-used="1572949842663" shown-count="26" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.complete.statement" count="1" last-shown="0" last-used="1570680253975" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -24,7 +24,7 @@
     <feature id="db.console.execute" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="15" last-shown="0" last-used="1572330519040" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="390" last-shown="0" last-used="1572602415731" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="392" last-shown="0" last-used="1572949813289" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="1570518213603" last-used="0" shown-count="4" />
     <feature id="navigation.goto.implementation" count="1" last-shown="0" last-used="1560855719340" shown-count="0" />
@@ -33,7 +33,7 @@
     <feature id="navigation.select.in" count="6" last-shown="0" last-used="1555424103474" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="1" last-shown="0" last-used="1555718912429" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="576" last-shown="0" last-used="1572592626874" shown-count="0" />
+    <feature id="codeassists.comment.line" count="577" last-shown="0" last-used="1572927432961" shown-count="0" />
     <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -41,15 +41,15 @@
     <feature id="editor.delete.line" count="734" last-shown="0" last-used="1572580513413" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.quickdefinition" count="604" last-shown="0" last-used="1572856889917" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="616" last-shown="0" last-used="1572944404934" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="4753" last-shown="0" last-used="1572861452587" shown-count="0" />
+    <feature id="editing.completion.basic" count="4778" last-shown="0" last-used="1572949842675" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.postfix" count="3" last-shown="0" last-used="1571645214067" shown-count="0" />
     <feature id="diagram.show.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="6" last-shown="0" last-used="1572320758175" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="18789" last-shown="0" last-used="1572861683692" shown-count="0" />
+    <feature id="editing.select.word" count="19119" last-shown="0" last-used="1572950779615" shown-count="0" />
     <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console" count="4" last-shown="0" last-used="1563337772441" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -69,11 +69,11 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="20879" />
-      <option name="invocations" value="4486" />
+      <option name="sparedCharacters" value="20972" />
+      <option name="invocations" value="4511" />
       <option name="startDate" value="1554048000000" />
-      <option name="dayCount" value="138" />
-      <option name="lastDate" value="1572796800000" />
+      <option name="dayCount" value="139" />
+      <option name="lastDate" value="1572883200000" />
     </completionStatsTag>
     <fixesStatsTag>
       <option name="invocations" value="7" />
@@ -132,9 +132,11 @@
       <feature name="SHORT_ARRAY_SYNTAX" />
       <feature name="ARRAY_DEREFERENCING" />
       <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="THIS_IN_CLOSURE" />
       <feature name="EMPTY_ANY_EXPRESSION" />
       <feature name="IMMEDIATE_DEREFERENCING" />
       <feature name="CLASS_NAME_CONST" />
+      <feature name="USE_FUNCTION_AND_CONST" />
       <feature name="KEYWORD_NAMES" />
       <feature name="UNIFORM_VARIABLE_SYNTAX" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />

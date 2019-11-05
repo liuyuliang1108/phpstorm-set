@@ -54,7 +54,7 @@
     <location key="SettingsEditor.0.0.1440.900" x="206" y="52" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="161" y="64" />
     <location key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#.0.0.1440.900" x="412" y="242" />
-    <location key="#xdebugger.evaluate.0.0.1440.900" x="169" y="261" />
+    <location key="#xdebugger.evaluate.0.0.1440.900" x="376" y="178" />
     <location key="search.everywhere.popup.0.0.1440.900" x="686" y="176" />
     <location key="StructurePopup.0.0.1440.900" x="441" y="160" />
     <location key="#Deployment.0.0.1440.900" x="324" y="87" />
@@ -66,7 +66,7 @@
     <location key="run.anything.popup.0.0.1440.900" x="376" y="190" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="517" y="325" />
     <location key="jetbrains.javascript.buildTools.run-task-popup.0.0.1440.900" x="586" y="285" />
-    <location key="find.popup.0.0.1440.900" x="253" y="189" />
+    <location key="find.popup.0.0.1440.900" x="322" y="118" />
     <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1440.900" x="264" y="149" />
     <location key="#com.intellij.tools.ToolEditorDialog.0.0.1440.900" x="484" y="260" />
     <location key="#DBGp_Proxy.0.0.1440.900" x="563" y="334" />
