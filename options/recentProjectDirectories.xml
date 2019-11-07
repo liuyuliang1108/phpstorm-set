@@ -24,7 +24,7 @@
         <entry key="C:/wamp/www/inbarsar/inbarsarmwx" value="inbarsarmwx, nvlang_vue_master..." />
         <entry key="C:/wamp/www/vuenvlang" value="nvlang_vue_master, vue-admin-template..." />
         <entry key="E:/wamp/www" value="www, Bluegirl" />
-        <entry key="E:/wamp/www/vue-element-admin" value="vue-element-admin, ModuleManage..." />
+        <entry key="E:/wamp/www/vue-element-admin" value="vue-element-admin, admin123..." />
       </map>
     </option>
     <option name="lastPath" value="E:/wamp/www" />
@@ -103,8 +103,8 @@
               <option name="build" value="PS-183.6156.29" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1573036912185" />
-              <option name="buildTimestamp" value="1554910375283" />
+              <option name="projectOpenTimestamp" value="1573124711264" />
+              <option name="buildTimestamp" value="1554910344423" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -114,8 +114,8 @@
               <option name="build" value="PS-183.6156.29" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1573036912185" />
-              <option name="buildTimestamp" value="1554910375283" />
+              <option name="projectOpenTimestamp" value="1573124711264" />
+              <option name="buildTimestamp" value="1554910344423" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
